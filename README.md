@@ -1,20 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Matin+Maki;AI+%7C+ML+%7C+DL+Engineer;Full+Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=metinmeki&style=flat-square&color=58A6FF" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/metinmeki?label=Followers&style=flat-square&color=brightgreen" alt="Followers" />
-  <img src="https://img.shields.io/badge/Code%20with-Passion-red?style=flat-square&logo=github" alt="Passion Badge" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Working on **Autonomous Driving Systems**
-- 🧠 Currently learning **Assembly Language & Robotics**
-- 💬 Ask me about `AI/ML/DL`, `React`, `TensorFlow`, `Vue`, `Data Science`
 
 ---
 
