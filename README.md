@@ -6,17 +6,6 @@
   <img src="https://skillicons.dev/icons?i=react,django,flask,dotnet,tailwind" /><br/>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mysql" /><br/>
 </p>
-
-##  GitHub Stats
-
-<p align="center" class="animated-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=metinmeki&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=metinmeki&theme=radical&hide_border=true" width="48%" />
-</p>
-<p align="center" class="animated-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinmeki&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
 ##  GitHub Activity Graph
 
 <p align="center">
