@@ -6,4 +6,5 @@
   <img src="https://skillicons.dev/icons?i=react,django,flask,dotnet,tailwind" /><br/>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mysql" /><br/>
 </p>
+
 ![snake gif](https://github.com/metinmeki/metinmeki/blob/output/github-snake-dark.svg)
