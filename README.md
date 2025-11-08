@@ -1,5 +1,5 @@
 
-##  Languages & Tools
+##  Languages & Tool
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,php" /><br/>
