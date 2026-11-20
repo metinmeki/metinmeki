@@ -1,11 +1,4 @@
-<!-- ═══════════ HEADER (fixed) ═══════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00d2ff&height=200&section=header&text=Tech%20Arsenal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&descAlignY=55&descSize=18" width="100%" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=00D2FF&center=true&vCenter=true&width=650&height=45&lines=%3E+Full-Stack+Web+Developer+%E2%9A%A1;%3E+AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;%3E+Computer+Vision+%26+Object+Detection+%F0%9F%91%81%EF%B8%8F;%3E+Mobile+Apps+with+Flutter+%F0%9F%93%B1;%3E+Turning+ideas+into+products+%F0%9F%9A%80" />
-</p>
 
 <!-- ═══════════ TECH STACK ═══════════ -->
 <table align="center">
